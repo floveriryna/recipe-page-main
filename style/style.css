@@ -57,7 +57,7 @@ body{
 
 /*Preparation time list*/
 .preparation-time-container{
-    background-color: hsl(330, 100%, 98%);
+    background-color: var(--color-rose50);
     width: 100%;
     border-radius: 14px;
 }
